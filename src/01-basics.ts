@@ -27,7 +27,6 @@ const friend1 = {
         email: string
         extension: number
 }
-
   }
 
   interface ColleagueHistory {
